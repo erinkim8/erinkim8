@@ -7,14 +7,14 @@ Welcome to my GitHub profile! I am a high school student passionate about financ
   * GPA: 4.02
   * IB Predicted: 45
   * SAT: 1570
-  * Courses: HL Physics, HL Math A/A, HL Economics, HL English, SL Chemisty
+  * Courses: HL Physics, HL Math A/A, HL Economics, HL English, SL Chemistry
 
 ### 🛠️ Skills
 **Technical Skills:**
 * **Programming Languages:** Python, R
 * **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-learn, BERT, GenAI, RAG
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
-* **Tools:** Docker, Git, MySQL
+* **Tools:** Git, MySQL
 
 **Soft Skills:**
 * Analytical Thinking
