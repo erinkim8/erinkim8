@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a high school student passionate about financ
   * SAT: 1570
   * Courses: HL Physics, HL Math A/A, HL Economics, HL English, SL Chemistry
 
-## 🧠 Technical Skills
+### 🧠 Technical Skills
 **Programming & Data Science**
 - Python (pandas, NumPy, scikit-learn, matplotlib, seaborn)
 - R (tidyverse, ggplot2, caret)
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a high school student passionate about financ
 - Excel (Advanced Modeling, VBA)
 - Jupyter Notebook, Google Colab, VS Code
 
-## 💡 Soft Skills
+### 💡 Soft Skills
 - Analytical & Quantitative Reasoning  
 - Strong Communication Skills
 - Teamwork
