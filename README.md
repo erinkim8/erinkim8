@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am a high school student passionate about financ
 - Curiosity & Continuous Learning 
 - Persistent Problem-Solving  
 
-### 📊 Featured Projects
+### 📊 Projects
 - **📈 [News Sentiment & Stock Market Prediction](https://github.com/erinkim8/NLP-Headlines-Project)**  
   Using FinBERT and LSTM models to analyze 19K+ financial news headlines and predict daily S&P 500 returns.  
   *Tech:* Python, FinBERT, Time-Series Modeling  
